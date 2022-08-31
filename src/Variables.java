@@ -40,6 +40,13 @@ public class Variables {
         // Example: Non-Primitive Type
         String Name = "Lakshmi";
         System.out.println(Name.length());
+        
+         // Constant Variable : It is variable which value we cant change latter. Means the value of variable is immutable.
+        // To make a variable constant we make use of 'final' keyword.
+        // Example:
+
+        final float PI = 3.14F;
+        // PI = 3.4; this will get an error because here we want to change constant variable value.
 
     }
 }
