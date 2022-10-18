@@ -1,6 +1,6 @@
 public class Strings {
     public static void main(String[] args){
-        // Strings : this strings are immutable
+        // Strings : these strings are immutable
         // Concatenate: It means joning two strings.
         String name = "Joy";
         String name2 = "jit";
