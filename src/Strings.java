@@ -1,7 +1,7 @@
 public class Strings {
     public static void main(String[] args){
-        // Strings : these strings are immutable
-        // Concatenate: It means joning two strings.
+        // Strings : these strings are immutable.
+        // Concatenate: It means joining two strings.
         String name = "Joy";
         String name2 = "jit";
         String name3 = name+name2+" Bhandari \n";
@@ -17,7 +17,7 @@ public class Strings {
         String name4 = name.replace('J','B');
         System.out.println(name4);
 
-        // subsrting : its shows particular word from a sentence in string.
+        // substring : its shows particular word from a sentence in string.
         String sentence = "My name is joyjit";
         System.out.println(sentence.substring(11,17));
     }
